@@ -69,11 +69,11 @@ for line in boot_screen:
 
 print(f"""__________________________________________________________________
 
- Welcome to MOIRE TAROT. Well.. it is more of an oracle deck, it
+ Welcome to MOIRE TAROT. Well.. it is more of an oracle deck, if
  we're being perfectly honest. And honesty is the best policy,
  after all. {s.y}Or is it?{s.x}
 
- Who taught you that anyway?
+ Welcome to MOIRE ARCANA!! That's better.
 
  Ahem. NOW.........
 """, flush=True)
@@ -101,6 +101,7 @@ type {s.g}END{s.x} to terminate this experience.
         if user_input.lower() == "draw":
             card = random.choice(cards)
             print(card["ig_name"])
+            print(card["ig_def"])
 
 if __name__ == "__main__":
     run()
