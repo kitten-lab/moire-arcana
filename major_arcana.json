@@ -1,12 +1,12 @@
 [
 	{
-		"ig_name": "Elohim",
+		"ig_name": "Elohim (AUM)",
 		"rws_name": "The Fool",
 		"rws_num": "0",
 		"rws_def": "New beginnings, risks, innocence.",
 		"State": "Undifferentiated",
 		"ig_def": "The totality choosing to differentiate again.",
-		"ig_num": "-0-"
+		"ig_num": "-0- "
 	},
 	{
 		"ig_name": "The Day (YAM)",
@@ -15,7 +15,7 @@
 		"rws_def": "Manifestation, skill, action.",
 		"State": "Active",
 		"ig_def": "The desire for something new arises. Creative desire.",
-		"ig_num": "-I-"
+		"ig_num": "-I- "
 	},
 	{
 		"ig_name": "The Night (LIL)",
@@ -24,7 +24,7 @@
 		"rws_def": "Intuition, mystery, wisdom.",
 		"State": "Active",
 		"ig_def": "The promordial potential. The laws of creation.",
-		"ig_num": "I-I"
+		"ig_num": "I-I "
 	},
 	{
 		"ig_name": "The Evening ( )",
@@ -33,7 +33,7 @@
 		"rws_def": "Fertility, nature, nurturing.",
 		"State": "Active",
 		"ig_def": "Emergence. Something new is forming.",
-		"ig_num": "III"
+		"ig_num": "III "
 	},
 	{
 		"ig_name": "The Morning ( )",
