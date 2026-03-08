@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Vim / neovim
+*.swp
+*.swo
+
+# OS_junk
+.DS_Store
+
+# editor junk
+*~
